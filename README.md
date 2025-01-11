@@ -19,4 +19,6 @@ On this account you ~~can~~ *will soon be able to* find (when I finish organizin
 
 I have a <a href="https://github.com/TheHolyChickn">second account</a> for online communities, where I usually go by the alias The Holy Chicken. My second account hosts my Minecraft mod, <a href="https://github.com/TheHolyChickn/Good-Mod">good mod</a>, which is a small QOL mod for Hypixel Skyblock that improves over other mods in a very specific niche.
 
+<p align=center>
 &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=GrantTalbert)
+</p>
