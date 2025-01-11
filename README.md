@@ -20,3 +20,12 @@ On this account you ~~can~~ *will soon be able to* find (when I finish organizin
 I have a <a href="https://github.com/TheHolyChickn">second account</a> for online communities, where I usually go by the alias The Holy Chicken. My second account hosts my Minecraft mod, <a href="https://github.com/TheHolyChickn/Good-Mod">good mod</a>, which is a small QOL mod for Hypixel Skyblock that improves over other mods in a very specific niche.
 
 &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GrantTalbert)
+
+<p align="center">
+  <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GrantTalbert&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTalbert&layout=donut&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/GrantTalbert/GrantTalbert/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
