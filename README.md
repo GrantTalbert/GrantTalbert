@@ -13,7 +13,8 @@
 On this account you ~~can~~ *will soon be able to* find (when I finish organizing my github)
 - My various LaTeX templates, including a custom package I made to give myself various custom titlepages
 - My dotfiles, aka the various configuration files and scripts I made for my computer
-    - This includes a management system for my LaTeX notes and homework files. This system an adaptation/expansion of [Gilles Castel (RIP)](https://castel.dev/)'s system. I intend to refactor it into a language other than Python soon
+    - This includes a management system for my LaTeX notes and homework files. This system an adaptation/expansion of [Gilles Castel (RIP)](https://castel.dev/)'s system.
+    - I [refactored his figure management system into rust](https://github.com/GrantTalbert/inkscape-figure-manager/), and intend to do the same with his entire setup. This refactor is for Linux systems, and may break on other operating systems because I simply don't care. 
 - Many of the notes I've taken in my university courses
 - Notes I've taken from other sources, such as textbooks, or miscellanious lectures I have attended
 
