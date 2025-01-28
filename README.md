@@ -25,6 +25,7 @@ I have a <a href="https://github.com/TheHolyChickn">second account</a> for onlin
 - Java
 - Kotlin
 - Bash
+- Rust (a little)
 - Typescript (learning)
 
 &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GrantTalbert)
