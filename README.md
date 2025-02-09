@@ -4,7 +4,7 @@
 
 - Undergrad class of '27
 - Double major in physics & math
-    - Focusing on quantum mechanics, want to go into quantum field theory
+    - Focusing on quantum mechanics, want to go into high energy physics
     - My math major is mostly for fun, I like abstract nonsense, topology, and algebra
 - I ❤️ LaTeX
 - LINUX (i use arch btw)
@@ -26,6 +26,7 @@ I have a <a href="https://github.com/TheHolyChickn">second account</a> for onlin
 - Kotlin
 - Bash
 - Rust (a little)
+- Go (an even smaller amount)
 - Typescript (learning)
 
 &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GrantTalbert)
