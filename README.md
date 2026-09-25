@@ -14,7 +14,6 @@
 
 <p align="center">
   <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GrantTalbert&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrantTalbert&layout=donut&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
